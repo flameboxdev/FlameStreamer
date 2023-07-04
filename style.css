@@ -3,9 +3,10 @@ body {
   background: linear-gradient(to right, rgb(148, 119, 124), rgb(72, 72, 126))
 }
 
-h3 {
+h2 {
   text-align: right;
-  margin-right: 40px;
+  color: white;
+  margin-right: 45px;
 }
 
 #i {
