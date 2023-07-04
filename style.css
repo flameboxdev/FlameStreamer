@@ -1,6 +1,6 @@
 
-* {
-  background-color: lightgray;
+body {
+  background: linear-gradient(to right, rgb(148, 119, 124), rgb(72, 72, 126))
 }
 
 h3 {
